@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kictioli.github.io/sitemap.html.gz
+Sitemap: https://kictioli.github.io/app/sitemap.html.gz
+Sitemap: https://kictioli.github.io/assets/sitemap.html.gz
+Sitemap: https://kictioli.github.io/css/sitemap.html.gz
+Sitemap: https://kictioli.github.io/data/sitemap.html.gz
+Sitemap: https://kictioli.github.io/includes/sitemap.html.gz
+Sitemap: https://kictioli.github.io/item/sitemap.html.gz
+Sitemap: https://kictioli.github.io/src/sitemap.html.gz
